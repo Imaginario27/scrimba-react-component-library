@@ -13,14 +13,13 @@ export default function TestimonialSection (){
                     Amet feugiat est integer dolor auctor adipiscing nunc urna, sit. 
                 </Testimonial>
             </div>
+            <h3>Without image</h3>
             <div className="testimonials">
                 <Testimonial>
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed urna nulla vitae laoreet augue.
                     Amet feugiat est integer dolor auctor adipiscing nunc urna, sit. 
                 </Testimonial>
             </div>
-            
-            
         </section>
     )
 }
