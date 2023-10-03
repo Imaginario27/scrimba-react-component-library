@@ -1,8 +1,25 @@
-# React + Vite
+# React Component Library
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+The React Component Library is a versatile collection of React components that allow you to easily enhance the user interface of your web applications. With a diverse range of customizable features and styles, you can create stunning and interactive user experiences effortlessly.
 
-Currently, two official plugins are available:
+## Features
+- A comprehensive collection of React components.
+- Customizable styles, colors, and shapes.
+- Easy integration into your React applications.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Showcase
+You can preview the showcase at the [library page](https://scrimba-react-component-library.netlify.app/).
+
+## How to Use
+1. Download the project
+2. Import the components and CSS to your project
+
+## Screenshot
+![Screenshot](https://imaginario27.com/wp-content/uploads/2023/09/generador-contrasenas-app.jpg)
+
+## Acknowledgments
+This project was created as a part of the Scrimba Front-end Developer course.
+Special thanks to Scrimba for their educational resources.
+
+## Contact
+If you have any questions or suggestions, feel free to contact me at designer@imaginario27.com.
