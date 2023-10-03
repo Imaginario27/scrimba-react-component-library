@@ -15,7 +15,11 @@ You can preview the showcase at the [library page](https://scrimba-react-compone
 2. Import the components and CSS to your project
 
 ## Screenshot
-![Screenshot](https://imaginario27.com/wp-content/uploads/2023/09/generador-contrasenas-app.jpg)
+![Badges](https://imaginario27.com/wp-content/uploads/2023/10/react-component-library-badges.jpg)
+![Banner](https://imaginario27.com/wp-content/uploads/2023/10/react-component-library-banner.jpg)
+![Cards](https://imaginario27.com/wp-content/uploads/2023/10/react-component-library-cards.jpg)
+![Testimonials](https://imaginario27.com/wp-content/uploads/2023/10/react-component-library-testimonials.jpg)
+![Tooltips](https://imaginario27.com/wp-content/uploads/2023/10/react-component-library-tooltips.jpg)
 
 ## Acknowledgments
 This project was created as a part of the Scrimba Front-end Developer course.
